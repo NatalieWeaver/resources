@@ -1,0 +1,2 @@
+﻿title,author,year,package,notes,url
+Beautiful code snippets in LaTeX using the Minted package and Visual Studio Code,Michiel Kempen,2020,minted,Explains how to configure the settings of the Latex Workshop extension to VS Code to compile LaTeX documents using the minted package without erroring.,https://michielkempen.com/blog/beautiful-code-snippets-in-latex-using-the-minted-package-and-visual-studio-code
